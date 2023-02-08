@@ -23,6 +23,14 @@
       "availability": "В наличии",
       "amount": 5,
       "price": 184
+    },
+    {
+      "id": 4,
+      "name": "Eschenbacher Franz Josef Bayerisch Helles (0,5 л.)",
+      "manufacturer": "Lager / Лагер",
+      "availability": "В наличии",
+      "amount": 7,
+      "price": 199
     }
   ]
 }
