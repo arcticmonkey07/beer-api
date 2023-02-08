@@ -1,0 +1,28 @@
+{
+  "beers": [
+    {
+      "id": 1,
+      "name": "Augustiner Weissbier (0,5 л.)",
+      "manufacturer": "German Hefeweizen / Немецкий хефевайцен",
+      "availability": "В наличии",
+      "amount": 27,
+      "price": 280
+    },
+    {
+      "id": 2,
+      "name": "Ayinger Bairisch Pils (0,5 л.)",
+      "manufacturer": "Pilsner / Пилзнер",
+      "availability": "В наличии",
+      "amount": 58,
+      "price": 264
+    },
+    {
+      "id": 3,
+      "name": "Eschenbacher Export Premium (0,5 л.)",
+      "manufacturer": "Dortmunder / Дортмундер",
+      "availability": "В наличии",
+      "amount": 5,
+      "price": 184
+    }
+  ]
+}
