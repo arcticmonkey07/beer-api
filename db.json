@@ -2,6 +2,7 @@
   "beers": [
     {
       "id": 1,
+      "img": "https://rusbeershop.ru/upload/iblock/69c/avgustiner_vayssbir_augustiner_weissbier_0_5_l_.jpg",
       "name": "Augustiner Weissbier (0,5 л.)",
       "manufacturer": "German Hefeweizen / Немецкий хефевайцен",
       "availability": "В наличии",
@@ -10,6 +11,7 @@
     },
     {
       "id": 2,
+      "img": "https://rusbeershop.ru/upload/iblock/e88/ayinger_bayrish_pils_ayinger_bairisch_pils_0_5_l_.jpg",
       "name": "Ayinger Bairisch Pils (0,5 л.)",
       "manufacturer": "Pilsner / Пилзнер",
       "availability": "В наличии",
@@ -18,6 +20,7 @@
     },
     {
       "id": 3,
+      "img": "https://rusbeershop.ru/upload/iblock/26a/eshenbakher_eksport_premium_eschenbacher_export_premium_0_5_l_.png",
       "name": "Eschenbacher Export Premium (0,5 л.)",
       "manufacturer": "Dortmunder / Дортмундер",
       "availability": "В наличии",
@@ -26,10 +29,20 @@
     },
     {
       "id": 4,
+      "img": "https://rusbeershop.ru/upload/iblock/a09/eshenbakher_frants_yozef_bayrish_khelles_eschenbacher_franz_josef_bayerisch_helles_0_5_l_.jpg",
       "name": "Eschenbacher Franz Josef Bayerisch Helles (0,5 л.)",
       "manufacturer": "Lager / Лагер",
       "availability": "В наличии",
       "amount": 7,
+      "price": 199
+    },
+    {
+      "id": 5,
+      "img": "https://rusbeershop.ru/upload/iblock/b3f/shpaten_myunkhen_svetloe_spaten_munchen_hell_0_5_l_.jpg",
+      "name": "Spaten Munchen Hell (0,5 л.)",
+      "manufacturer": "Helles / Хеллес",
+      "availability": "В наличии",
+      "amount": 341,
       "price": 199
     }
   ]
